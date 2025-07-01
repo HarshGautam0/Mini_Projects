@@ -28,10 +28,9 @@ Features
 - Interactive functionality
 
 Getting Started
-1. Clone the repository using git clone https://github.com/your-username/web-development-mini-projects.git
-2. Navigate to the project directory using cd web-development-mini-projects
-3. Open the project folder in your preferred code editor
-4. Run the project using a local server or by opening the HTML file directly in a browser
+1. Navigate to the project directory using cd web-development-mini-projects
+2. Open the project folder in your preferred code editor
+3. Run the project using a local server or by opening the HTML file directly in a browser
 
 Contributing
 Contributions are welcome! If you'd like to add a new project or improve an existing one, please submit a pull request.
